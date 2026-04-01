@@ -17,9 +17,6 @@ importers:
       '@fontsource-variable/crimson-pro':
         specifier: ^5.2.8
         version: 5.2.8
-      '@fontsource-variable/eb-garamond':
-        specifier: ^5.2.7
-        version: 5.2.7
       '@fontsource/im-fell-english-sc':
         specifier: ^5.2.6
         version: 5.2.6
@@ -286,9 +283,6 @@ packages:
 
   '@fontsource-variable/crimson-pro@5.2.8':
     resolution: {integrity: sha512-En4uvz5Wb9gZFi/EVPA9jfC7Bh5NLYwOGc2KhUIT5mPSKrOSCaI1IyvQ3SbUXeHJ04MhWJiRLJSuU9CmyDcOIA==}
-
-  '@fontsource-variable/eb-garamond@5.2.7':
-    resolution: {integrity: sha512-TbR+Pun4k5g85lgdxRNSbWka5vJgi9pzdFzFswgf7/7NRhKssvoumft1+ZGz3n91YYet96JcnjWrgPGGj6JTzg==}
 
   '@fontsource/im-fell-english-sc@5.2.6':
     resolution: {integrity: sha512-+uVXYFiAURkyvKKbkN/DyOs2PNIVt+/pIyax8FpVppxgpU676gRFp7eAUxdKBTPCT0zhM8UFaZ+IhCza0Vpl7w==}
@@ -2227,8 +2221,6 @@ snapshots:
       '@expressive-code/core': 0.41.7
 
   '@fontsource-variable/crimson-pro@5.2.8': {}
-
-  '@fontsource-variable/eb-garamond@5.2.7': {}
 
   '@fontsource/im-fell-english-sc@5.2.6': {}
 

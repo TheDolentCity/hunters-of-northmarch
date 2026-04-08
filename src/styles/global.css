@@ -80,4 +80,8 @@
     border-radius: var(--radius-sm);
     padding: 0.125rem 0.25rem;
   }
+  .sl-markdown-content hr:not(:where(.not-content *)) {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  }
 }

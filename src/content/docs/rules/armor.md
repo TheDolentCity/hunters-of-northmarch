@@ -30,14 +30,17 @@ All armor must be donned and doffed. It is possible that you may choose to forgo
 
 - Increased AC bonus from `+6` to `+8`
 - Removed the `-1` penalty to speed.
+- Stealth skill gains a `-5` check penalty.
 
 ### Scale Armor Changes
 
 - Increased AC bonus from `+7` to `+10`
 - Added `+2` Fortitude bonus
+- Stealth skill gains a `-5` check penalty.
 
 ### Plate Armor Changes
 
 - AC bonus increased from `+8` to `+10`
 - Added `+2` Fortitude bonus
 - Armor gains the `resist 1 all` property
+- Stealth skill gains a `-5` check penalty.

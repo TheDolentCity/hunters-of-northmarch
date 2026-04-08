@@ -7,7 +7,7 @@ All players are members of the Hunter's Guild, and thus the Consortium. They sho
 
 ## Branches of Government
 
-- **The Imperium:** The central government that controls the rest of the branches and oversees all military action.
+- **The Imperium:** Central government that oversees all military action and can override the Senate.
 - **The Senate:** Elites dedicated to the formation and enforcement of law.
 - **The Aristocracy:** The collection of noble vassals that owe allegiance to senators and oversee the management of serfs.
 - **The Consortium:** The branch charged with the organization, recruitment, and training of all guilds.
@@ -17,7 +17,9 @@ All players are members of the Hunter's Guild, and thus the Consortium. They sho
 - The **Imperium** overrules the Senate if war or public safety is concerned.
 - The **Senate** ensures the Aristocracy maintains order.
 - The **Aristocracy** forces the Consortium to obey laws.
-- The **Consortium** raises serfs to greater status.
+- The **Consortium** controls the lives of guild members.
+
+---
 
 ## The Imperium Branch
 

@@ -30,11 +30,23 @@ export default defineConfig({
           link: "/introduction",
         },
         {
+          label: "World Primer",
+          link: "/world-primer",
+        },
+        {
+          label: "Hunter's Primer",
+          link: "/hunters-primer",
+        },
+        {
           label: "Rules",
           items: [
             {
               label: "Overview",
               link: "/rules/overview",
+            },
+            {
+              label: "Character Creation",
+              link: "/rules/character-creation",
             },
             {
               label: "Armor",
@@ -43,6 +55,25 @@ export default defineConfig({
             {
               label: "Weapons",
               link: "/rules/weapons",
+            },
+          ],
+        },
+        {
+          label: "The Kindled",
+          items: [
+            {
+              label: "Overview",
+              link: "/the-kindled/overview",
+            },
+            {
+              label: "The Dawn Gods",
+              autogenerate: { directory: "/the-kindled/the-dawn-gods" },
+              collapsed: true,
+            },
+            {
+              label: "The Dusk Gods",
+              autogenerate: { directory: "/the-kindled/the-dusk-gods" },
+              collapsed: true,
             },
           ],
         },
@@ -57,6 +88,10 @@ export default defineConfig({
         {
           label: "Guilds",
           autogenerate: { directory: "guilds" },
+        },
+        {
+          label: "Resources",
+          autogenerate: { directory: "resources" },
         },
       ],
     }),

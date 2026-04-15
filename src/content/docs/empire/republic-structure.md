@@ -1,6 +1,6 @@
 ---
 title: Republic Structure
-description: TODO
+description: An overview of the structure of the Orican Empire.
 ---
 
 All players are members of the Hunter's Guild, and thus the Consortium. They should be aware of how many people there are above them.

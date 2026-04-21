@@ -5,6 +5,10 @@ description: An overview of the rule changes
 
 I have changed several rules to promote more interesting player decisions during character creation and combat. These are relatively minor rule changes, but I will give a brief overview here.
 
+## New Mechanics
+
+A list of all the new mechanics I added to the game.
+
 ## Character Creation
 
 Races, feats, and equipment were made more flexible. Hunters also have an additional random mutation that has added benefits, but the downside is that they are very recognizable to all other folk.

@@ -45,6 +45,10 @@ export default defineConfig({
               link: "/rules/overview",
             },
             {
+              label: "New Mechanics",
+              link: "/rules/new-mechanics",
+            },
+            {
               label: "Character Creation",
               link: "/rules/character-creation",
             },

@@ -1,6 +1,6 @@
 ---
 title: New Mechanics
-description: A list of the new mechanics I am adding to the 4E game.
+description: A list of the new or modified mechanics we are using in the 4E game.
 ---
 
 ## Day and Night
@@ -11,7 +11,7 @@ The strength of the Dawn Gods rises and sets with the sun. Monsters that draw po
 
 This is a list of the new actions I have added to the game.
 
-### Save - Standard Action
+### Focused Save - Standard Action
 
 You can concentrate and attempt to overcome a specific condition on yourself that a save can end. Instead of rolling a normal d20 save, you can also add one of your ability scores to the roll. The ability score you add is based on the condition. See below:
 
@@ -39,6 +39,15 @@ This is a list of the new conditions I have added to the game.
 - You have a -5 penalty to all ability checks, skill checks, and attack rolls.
 - You cannot willingly move closer to the source of the frightened condition.
 
-## Knocking Unconscious
+## Nonlethal Damage
 
 You cannot choose to knock a creature unconscious. It may die if it falls to zero hit points. You must have some method that can more safely guarantee unconscious. Beating someone with a mace will likely kill them.
+
+## Feats
+
+This is a list of the new feats I have added to the game.
+
+### Multiclass Adept
+
+- `Requirements:` Any multiclass feat
+- `Effect:` Swap one at-will, encounter, or daily power of your level or lower with one from your multiclass power list. You cannot take this feat multiple times, but you can change the swapped power to another any time you level up.

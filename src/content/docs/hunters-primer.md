@@ -33,7 +33,7 @@ If you perform magic in front of ordinary people, they will need to make a fear 
 
 ## Hunters have exceptional abilities
 
-Outside of the Hunters Guild, violence is monopolized by the state. Very few people have real arms and armor. Killing a man is easy and takes little training. Learning to be a hunter is much harder. Even a Journeyman Hunter is almost super-heroic compared to an average solider.
+Outside of the Hunters Guild, violence is monopolized by the state. Very few people have real arms and armor. Killing a man is easy and takes little training. Learning to be a hunter is much harder. Even a journeyman hunter is almost super-heroic compared to an average imperial soldier. 
 
 In mechanical terms, the average human adult has 8-10 in each ability score. An exceptional leader or athlete might have up to 12 in a score. The fact that a Hunter, even at level 1, could have 18 in a score makes them super heroic, to the point that regular folk can tell you're a hunter just from your behavior. Consult the table below to see how this manifests for you based on your highest ability score.
 

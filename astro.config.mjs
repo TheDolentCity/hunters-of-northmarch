@@ -57,6 +57,10 @@ export default defineConfig({
               link: "/rules/armor",
             },
             {
+              label: "Scars",
+              link: "/rules/scars",
+            },
+            {
               label: "Weapons",
               link: "/rules/weapons",
             },

@@ -1,6 +1,6 @@
 ---
 title: Introduction
-description: An overview of Hunters of Northmarch and an introduction to rule changes and the campaign setting.
+description: An overview of Hunters of Northmarch and an introduction to the campaign setting.
 ---
 
 > _It is night, it is dark. See the cloaked figures on horses. Feel the rain strike their cloaks and soak into their skin. Behind them, illuminated by lightning, see a mess of fur and claws. It charges, but they were baiting the beast. Hear three arrows whistle and strike true. See vines wrap and twist around its legs. An axe is raised high. Smell the blood._

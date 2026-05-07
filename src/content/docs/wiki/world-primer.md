@@ -27,4 +27,4 @@ This guild is feared and reviled by most. While it is still viewed as a "necessi
 
 ### Hunter Mutations
 
-Hunters are considered "mutants" from odd physical changes they alone appear to have. This is a result of the [Trial of the Current](/guilds/hunters-guild#trial-of-the-current). Few outside of the Hunter's Guild know the truth of it.
+Hunters are considered "mutants" from odd physical changes they alone appear to have. This is a result of the [Trial of the Current](/wiki/guilds/hunters-guild#trial-of-the-current). Few outside of the Hunter's Guild know the truth of it.

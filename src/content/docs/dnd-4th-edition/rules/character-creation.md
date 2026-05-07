@@ -64,4 +64,4 @@ You are outfitted by the Hunter's Guild. Every character begins with a steed and
 
 ## Mutations
 
-Ever hunter is mutated. [Roll your random mutation here](/hunters-primer#hunter-mutations).
+Ever hunter is mutated. [Roll your random mutation here](./mutations).

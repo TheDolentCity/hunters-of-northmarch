@@ -2,6 +2,8 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import tailwindcss from "@tailwindcss/vite";
+import starlightLinksValidator from "starlight-links-validator";
+import starlightSidebarTopics from "starlight-sidebar-topics";
 
 // https://astro.build/config
 export default defineConfig({
@@ -24,83 +26,89 @@ export default defineConfig({
         "@fontsource-variable/crimson-pro/index.css",
         "@fontsource/im-fell-english-sc/400.css",
       ],
-      sidebar: [
-        {
-          label: "Introduction",
-          link: "/introduction",
-        },
-        {
-          label: "World Primer",
-          link: "/world-primer",
-        },
-        {
-          label: "Hunter's Primer",
-          link: "/hunters-primer",
-        },
-        {
-          label: "Rules",
-          items: [
-            {
-              label: "Overview",
-              link: "/rules/overview",
-            },
-            {
-              label: "New Mechanics",
-              link: "/rules/new-mechanics",
-            },
-            {
-              label: "Character Creation",
-              link: "/rules/character-creation",
-            },
-            {
-              label: "Armor",
-              link: "/rules/armor",
-            },
-            {
-              label: "Scars",
-              link: "/rules/scars",
-            },
-            {
-              label: "Weapons",
-              link: "/rules/weapons",
-            },
-          ],
-        },
-        {
-          label: "The Kindled",
-          items: [
-            {
-              label: "Overview",
-              link: "/the-kindled/overview",
-            },
-            {
-              label: "The Dawn Gods",
-              autogenerate: { directory: "/the-kindled/the-dawn-gods" },
-              collapsed: true,
-            },
-            {
-              label: "The Dusk Gods",
-              autogenerate: { directory: "/the-kindled/the-dusk-gods" },
-              collapsed: true,
-            },
-          ],
-        },
-        {
-          label: "Empire",
-          autogenerate: { directory: "empire" },
-        },
-        {
-          label: "Regions",
-          autogenerate: { directory: "regions" },
-        },
-        {
-          label: "Guilds",
-          autogenerate: { directory: "guilds" },
-        },
-        {
-          label: "Resources",
-          autogenerate: { directory: "resources" },
-        },
+      plugins: [
+        starlightLinksValidator({
+          errorOnRelativeLinks: false,
+        }),
+        starlightSidebarTopics([
+          {
+            label: "Wiki",
+            link: "/wiki/introduction",
+            icon: "open-book",
+            items: [
+              {
+                label: "Introduction",
+                link: "/wiki/introduction",
+              },
+              {
+                label: "World Primer",
+                link: "/wiki/world-primer",
+              },
+              {
+                label: "Hunter's Primer",
+                link: "/wiki/hunters-primer",
+              },
+              {
+                label: "Empire",
+                autogenerate: { directory: "/wiki/empire" },
+                collapsed: true,
+              },
+              {
+                label: "Guilds",
+                autogenerate: { directory: "/wiki/guilds" },
+                collapsed: true,
+              },
+              {
+                label: "The Kindled",
+                items: [
+                  {
+                    label: "Overview",
+                    link: "/wiki/the-kindled/overview",
+                  },
+                  {
+                    label: "The Dawn Gods",
+                    autogenerate: {
+                      directory: "/wiki/the-kindled/the-dawn-gods",
+                    },
+                    collapsed: true,
+                  },
+                  {
+                    label: "The Dusk Gods",
+                    autogenerate: {
+                      directory: "/wiki/the-kindled/the-dusk-gods",
+                    },
+                    collapsed: true,
+                  },
+                ],
+                collapsed: true,
+              },
+              {
+                label: "Regions",
+                autogenerate: { directory: "/wiki/regions" },
+                collapsed: true,
+              },
+            ],
+          },
+          {
+            label: "D&D 4th Edition",
+            link: "/dnd-4th-edition/introduction",
+            icon: "information",
+            items: [
+              {
+                label: "Introduction",
+                link: "/dnd-4th-edition/introduction",
+              },
+              {
+                label: "Rules",
+                autogenerate: { directory: "/dnd-4th-edition/rules" },
+              },
+              {
+                label: "Resources",
+                autogenerate: { directory: "/dnd-4th-edition/resources" },
+              },
+            ],
+          },
+        ]),
       ],
     }),
   ],

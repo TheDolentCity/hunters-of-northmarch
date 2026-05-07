@@ -12,11 +12,11 @@ If you fail to uphold this code, you may be retired from the guild. There are no
 - Do not attempt to rise from your position
 - Obey the laws of the land, and respect all peoples
 - Be a champion of Dawn, a poison to all aligned with the Dusk
-- Do not cast your heart aside, lest you tempt [Balen](/the-kindled/the-dusk-gods/balen)
-- Hold fast and true, a shield against [Ithild](/the-kindled/the-dusk-gods/ithild)
-- Respect your combatants, or you may feel the touch of [Peragus](/the-kindled/the-dusk-gods/peragus)
-- Be a slayer of monsters, a wound to [Roxen](/the-kindled/the-dusk-gods/roxen)
-- Prize your intellect, rashness drives one to [Shadir](/the-kindled/the-dusk-gods/shadir)
+- Do not cast your heart aside, lest you tempt [Balen](/wiki/the-kindled/the-dusk-gods/balen)
+- Hold fast and true, a shield against [Ithild](/wiki/the-kindled/the-dusk-gods/ithild)
+- Respect your combatants, or you may feel the touch of [Peragus](/wiki/the-kindled/the-dusk-gods/peragus)
+- Be a slayer of monsters, a wound to [Roxen](/wiki/the-kindled/the-dusk-gods/roxen)
+- Prize your intellect, rashness drives one to [Shadir](/wiki/the-kindled/the-dusk-gods/shadir)
 
 ## Hunters are hated
 
@@ -33,7 +33,7 @@ If you perform magic in front of ordinary people, they will need to make a fear 
 
 ## Hunters have exceptional abilities
 
-Outside of the Hunters Guild, violence is monopolized by the state. Very few people have real arms and armor. Killing a man is easy and takes little training. Learning to be a hunter is much harder. Even a journeyman hunter is almost super-heroic compared to an average imperial soldier. 
+Outside of the Hunters Guild, violence is monopolized by the state. Very few people have real arms and armor. Killing a man is easy and takes little training. Learning to be a hunter is much harder. Even a journeyman hunter is almost super-heroic compared to an average imperial soldier.
 
 In mechanical terms, the average human adult has 8-10 in each ability score. An exceptional leader or athlete might have up to 12 in a score. The fact that a Hunter, even at level 1, could have 18 in a score makes them super heroic, to the point that regular folk can tell you're a hunter just from your behavior. Consult the table below to see how this manifests for you based on your highest ability score.
 
@@ -48,25 +48,13 @@ In mechanical terms, the average human adult has 8-10 in each ability score. An 
 
 ## Hunters are mutants
 
-Hunters are considered "mutants" from odd physical changes they alone appear to have. This is a result of the [Trial of the Current](/guilds/hunters-guild#trial-of-the-current). Few outside of the Hunter's Guild know the truth of it. Roll below to see how this mutation became apparent in you:
+Hunters are considered "mutants" from odd physical changes they alone appear to have. This is a result of the [Trial of the Current](/wiki/guilds/hunters-guild#trial-of-the-current). Few outside of the Hunter's Guild know the truth of it. Roll below to see how your mutation manifested, or alternatively, roll on the hunter mutations table specific to the system you prefer.
 
-| `1d6` | Mutation                                                                             |
-| ----- | ------------------------------------------------------------------------------------ |
-| `1`   | Boar-like skin. Your unarmored AC can be treated as if you wear Leather.             |
-| `2`   | Bear-like claws. Your claws have scimitar stats and you gain a +5 bonus to climbing. |
-| `3`   | Wolf-like snout. You have the wolf howl ability (see below).                         |
-| `4`   | Dog-like nose. Gain a +10 bonus to any check to detect or track a specific scent.    |
-| `5`   | Bat-like ears. Gain Blindsight 1 and a +2 bonus to Perception.                       |
-| `6`   | Cat-like eyes. Gain Darkvision and a +2 bonus to Perception.                         |
-
-```
-WOLF HOWL
-----------------------------------------------------------------
-Throwing back your head, you let out a piercing howl.
-----------------------------------------------------------------
-At-Will 🔸 Fear
-Standard Action 🔸 Close burst 20
-Targets: All animals in the area
-Attack: +10 vs Will
-Effect: The animal gains the Frightened condition (save ends).
-```
+| `1d6` | Mutation                                                                       |
+| ----- | ------------------------------------------------------------------------------ |
+| `1`   | Boar-like skin. Your skin is as tough as boiled Leather.                       |
+| `2`   | Bear-like claws. Your claws cut deep and help you climb.                       |
+| `3`   | Wolf-like snout. You have the ability to terrify animals with a howl or snarl. |
+| `4`   | Dog-like nose. You excel at detecting or tracking a specific scent.            |
+| `5`   | Bat-like ears. Your hearing is impeccable and you can navigate while blind.    |
+| `6`   | Cat-like eyes. You can see nearby in perfect darkness.                         |
